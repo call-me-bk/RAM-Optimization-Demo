@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">RAM Optimization Demo</string>
+    <string-array name="weaponsD2">
+        <item>Thorn</item>
+        <item>Last Word</item>
+        <item>Cereberus+1</item>
+        <item>Le Monarque</item>
+        <item>Lord Of Wolves</item>
+        <item>Outbreak Prime</item>
+        <item>Chaperone</item>
+        <item>Truth</item>
+        <item>Sleeper Simulant</item>
+        <item>Tarrabah</item>
+        <item>Crimson</item>
+        <item>Prometheus Lens</item>
+        <item>The Colony</item>
+        <item>Telesto</item>
+    </string-array>
 </resources>
